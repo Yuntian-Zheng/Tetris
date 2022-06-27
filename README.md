@@ -45,3 +45,9 @@ Technical problem/requirement
 •	Determine which block go next
 
 •	Losing condition if block touch the top of the board
+
+
+Unsolved Problems
+
+• Creating levels
+• Pausing the game
